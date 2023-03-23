@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "teigen"]
+	path = teigen
+	url = https://github.com/cran/teigen
+	shallow = true
+	registered = true
+[submodule "vscc"]
+	path = vscc
+	url = https://github.com/cran/vscc
+	shallow = true
+	registered = true
