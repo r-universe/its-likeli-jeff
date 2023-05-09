@@ -8,8 +8,3 @@
 	url = https://github.com/cran/teigen
 	shallow = true
 	registered = true
-[submodule "vscc"]
-	path = vscc
-	url = https://github.com/cran/vscc
-	shallow = true
-	registered = true
